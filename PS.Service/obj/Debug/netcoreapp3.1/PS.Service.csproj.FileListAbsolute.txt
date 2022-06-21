@@ -1,0 +1,72 @@
+C:\work\work Dotnet\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Service.deps.json
+C:\work\work Dotnet\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Service.dll
+C:\work\work Dotnet\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Service.pdb
+C:\work\work Dotnet\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\Ps.Domain.dll
+C:\work\work Dotnet\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\Ps.Domain.pdb
+C:\work\work Dotnet\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.csproj.AssemblyReference.cache
+C:\work\work Dotnet\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\work Dotnet\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.AssemblyInfoInputs.cache
+C:\work\work Dotnet\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.AssemblyInfo.cs
+C:\work\work Dotnet\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.csproj.CoreCompileInputs.cache
+C:\work\work Dotnet\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.csproj.CopyComplete
+C:\work\work Dotnet\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.dll
+C:\work\work Dotnet\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.pdb
+C:\Users\amine\Desktop\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Service.deps.json
+C:\Users\amine\Desktop\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Service.dll
+C:\Users\amine\Desktop\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Service.pdb
+C:\Users\amine\Desktop\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\Ps.Domain.dll
+C:\Users\amine\Desktop\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\Ps.Domain.pdb
+C:\Users\amine\Desktop\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.csproj.AssemblyReference.cache
+C:\Users\amine\Desktop\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.AssemblyInfo.cs
+C:\Users\amine\Desktop\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.csproj.CopyComplete
+C:\Users\amine\Desktop\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.dll
+C:\Users\amine\Desktop\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.pdb
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Service.deps.json
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Service.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Service.pdb
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\Ps.Domain.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\Ps.Domain.pdb
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.csproj.AssemblyReference.cache
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.AssemblyInfo.cs
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.csproj.CopyComplete
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.pdb
+C:\Users\asus\source\repos\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Service.deps.json
+C:\Users\asus\source\repos\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Service.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Service.pdb
+C:\Users\asus\source\repos\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\Ps.Domain.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\Service.Pattern.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\asus\source\repos\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\Ps.Domain.pdb
+C:\Users\asus\source\repos\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\Service.Pattern.pdb
+C:\Users\asus\source\repos\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.AssemblyInfo.cs
+C:\Users\asus\source\repos\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.csproj.CopyComplete
+C:\Users\asus\source\repos\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.pdb
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Service.deps.json
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Service.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Service.pdb
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\Ps.Domain.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\Service.Pattern.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\Ps.Domain.pdb
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\Service.Pattern.pdb
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.csproj.AssemblyReference.cache
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.AssemblyInfoInputs.cache
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.AssemblyInfo.cs
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.csproj.CoreCompileInputs.cache
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.csproj.CopyComplete
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.pdb

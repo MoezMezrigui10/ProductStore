@@ -1,0 +1,49 @@
+C:\work\work Dotnet\ProductStore\Ps.Domain\bin\Debug\netcoreapp3.1\Ps.Domain.deps.json
+C:\work\work Dotnet\ProductStore\Ps.Domain\bin\Debug\netcoreapp3.1\Ps.Domain.dll
+C:\work\work Dotnet\ProductStore\Ps.Domain\bin\Debug\netcoreapp3.1\Ps.Domain.pdb
+C:\work\work Dotnet\ProductStore\Ps.Domain\obj\Debug\netcoreapp3.1\Ps.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\work Dotnet\ProductStore\Ps.Domain\obj\Debug\netcoreapp3.1\Ps.Domain.AssemblyInfoInputs.cache
+C:\work\work Dotnet\ProductStore\Ps.Domain\obj\Debug\netcoreapp3.1\Ps.Domain.AssemblyInfo.cs
+C:\work\work Dotnet\ProductStore\Ps.Domain\obj\Debug\netcoreapp3.1\Ps.Domain.csproj.CoreCompileInputs.cache
+C:\work\work Dotnet\ProductStore\Ps.Domain\obj\Debug\netcoreapp3.1\Ps.Domain.dll
+C:\work\work Dotnet\ProductStore\Ps.Domain\obj\Debug\netcoreapp3.1\Ps.Domain.pdb
+C:\work\work Dotnet\ProductStore\Ps.Domain\obj\Debug\netcoreapp3.1\Ps.Domain.csproj.AssemblyReference.cache
+C:\Users\amine\Desktop\ProductStore\Ps.Domain\bin\Debug\netcoreapp3.1\Ps.Domain.deps.json
+C:\Users\amine\Desktop\ProductStore\Ps.Domain\bin\Debug\netcoreapp3.1\Ps.Domain.dll
+C:\Users\amine\Desktop\ProductStore\Ps.Domain\bin\Debug\netcoreapp3.1\Ps.Domain.pdb
+C:\Users\amine\Desktop\ProductStore\Ps.Domain\obj\Debug\netcoreapp3.1\Ps.Domain.csproj.AssemblyReference.cache
+C:\Users\amine\Desktop\ProductStore\Ps.Domain\obj\Debug\netcoreapp3.1\Ps.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\ProductStore\Ps.Domain\obj\Debug\netcoreapp3.1\Ps.Domain.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\ProductStore\Ps.Domain\obj\Debug\netcoreapp3.1\Ps.Domain.AssemblyInfo.cs
+C:\Users\amine\Desktop\ProductStore\Ps.Domain\obj\Debug\netcoreapp3.1\Ps.Domain.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\ProductStore\Ps.Domain\obj\Debug\netcoreapp3.1\Ps.Domain.dll
+C:\Users\amine\Desktop\ProductStore\Ps.Domain\obj\Debug\netcoreapp3.1\Ps.Domain.pdb
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.Domain\bin\Debug\netcoreapp3.1\Ps.Domain.deps.json
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.Domain\bin\Debug\netcoreapp3.1\Ps.Domain.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.Domain\bin\Debug\netcoreapp3.1\Ps.Domain.pdb
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.Domain\obj\Debug\netcoreapp3.1\Ps.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.Domain\obj\Debug\netcoreapp3.1\Ps.Domain.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.Domain\obj\Debug\netcoreapp3.1\Ps.Domain.AssemblyInfo.cs
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.Domain\obj\Debug\netcoreapp3.1\Ps.Domain.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.Domain\obj\Debug\netcoreapp3.1\Ps.Domain.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.Domain\obj\Debug\netcoreapp3.1\Ps.Domain.pdb
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.Domain\obj\Debug\netcoreapp3.1\Ps.Domain.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.Domain\bin\Debug\netcoreapp3.1\Ps.Domain.deps.json
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.Domain\bin\Debug\netcoreapp3.1\Ps.Domain.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.Domain\bin\Debug\netcoreapp3.1\Ps.Domain.pdb
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.Domain\obj\Debug\netcoreapp3.1\Ps.Domain.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.Domain\obj\Debug\netcoreapp3.1\Ps.Domain.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.Domain\obj\Debug\netcoreapp3.1\Ps.Domain.AssemblyInfo.cs
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.Domain\obj\Debug\netcoreapp3.1\Ps.Domain.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.Domain\obj\Debug\netcoreapp3.1\Ps.Domain.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.Domain\obj\Debug\netcoreapp3.1\Ps.Domain.pdb
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.Domain\bin\Debug\netcoreapp3.1\Ps.Domain.deps.json
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.Domain\bin\Debug\netcoreapp3.1\Ps.Domain.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.Domain\bin\Debug\netcoreapp3.1\Ps.Domain.pdb
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.Domain\obj\Debug\netcoreapp3.1\Ps.Domain.csproj.AssemblyReference.cache
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.Domain\obj\Debug\netcoreapp3.1\Ps.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.Domain\obj\Debug\netcoreapp3.1\Ps.Domain.AssemblyInfoInputs.cache
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.Domain\obj\Debug\netcoreapp3.1\Ps.Domain.AssemblyInfo.cs
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.Domain\obj\Debug\netcoreapp3.1\Ps.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.Domain\obj\Debug\netcoreapp3.1\Ps.Domain.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.Domain\obj\Debug\netcoreapp3.1\Ps.Domain.pdb

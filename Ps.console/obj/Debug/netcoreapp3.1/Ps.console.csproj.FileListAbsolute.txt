@@ -1,0 +1,308 @@
+C:\work\work Dotnet\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.console.exe
+C:\work\work Dotnet\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.console.deps.json
+C:\work\work Dotnet\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.console.runtimeconfig.json
+C:\work\work Dotnet\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.console.runtimeconfig.dev.json
+C:\work\work Dotnet\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.console.dll
+C:\work\work Dotnet\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.console.pdb
+C:\work\work Dotnet\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.Domain.dll
+C:\work\work Dotnet\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.Domain.pdb
+C:\work\work Dotnet\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.csproj.AssemblyReference.cache
+C:\work\work Dotnet\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\work Dotnet\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.AssemblyInfoInputs.cache
+C:\work\work Dotnet\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.AssemblyInfo.cs
+C:\work\work Dotnet\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.csproj.CoreCompileInputs.cache
+C:\work\work Dotnet\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.csproj.CopyComplete
+C:\work\work Dotnet\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.dll
+C:\work\work Dotnet\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.pdb
+C:\work\work Dotnet\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.genruntimeconfig.cache
+C:\work\work Dotnet\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\PS.Service.dll
+C:\work\work Dotnet\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\PS.Service.pdb
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.console.exe
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.console.deps.json
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.console.runtimeconfig.json
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.console.runtimeconfig.dev.json
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.console.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.console.pdb
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.Domain.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\PS.Service.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.Domain.pdb
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\PS.Service.pdb
+C:\Users\amine\Desktop\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.csproj.AssemblyReference.cache
+C:\Users\amine\Desktop\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.AssemblyInfo.cs
+C:\Users\amine\Desktop\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.csproj.CopyComplete
+C:\Users\amine\Desktop\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.pdb
+C:\Users\amine\Desktop\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.genruntimeconfig.cache
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\amine\Desktop\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.console.exe
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.console.deps.json
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.console.runtimeconfig.json
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.console.runtimeconfig.dev.json
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.console.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.console.pdb
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.Domain.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\PS.Service.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.Domain.pdb
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\PS.Service.pdb
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.csproj.AssemblyReference.cache
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.AssemblyInfo.cs
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.csproj.CopyComplete
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.pdb
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.genruntimeconfig.cache
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\amine\Desktop\Nouveau dossier (2)\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.console.exe
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.console.deps.json
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.console.runtimeconfig.json
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.console.runtimeconfig.dev.json
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.console.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.console.pdb
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.Domain.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\PS.Service.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Service.Pattern.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.Domain.pdb
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\PS.Service.pdb
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Service.Pattern.pdb
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.AssemblyInfo.cs
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.csproj.CopyComplete
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.dll
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.pdb
+C:\Users\asus\source\repos\ProductStore\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.genruntimeconfig.cache
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.console.exe
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.console.deps.json
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.console.runtimeconfig.json
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.console.runtimeconfig.dev.json
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.console.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.console.pdb
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.Domain.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\PS.Service.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Service.Pattern.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Ps.Domain.pdb
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\PS.Service.pdb
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\Service.Pattern.pdb
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\bin\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.csproj.AssemblyReference.cache
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.AssemblyInfoInputs.cache
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.AssemblyInfo.cs
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.csproj.CoreCompileInputs.cache
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.csproj.CopyComplete
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.dll
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.pdb
+C:\Users\Moez\OneDrive\Bureau\ProductStore\ProductStore\Ps.console\obj\Debug\netcoreapp3.1\Ps.console.genruntimeconfig.cache
